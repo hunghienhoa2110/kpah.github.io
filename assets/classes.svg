@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" aria-label="Các môn phái">
+  <rect width="600" height="360" rx="16" fill="#ffffff"/>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#0b1f1b">
+    <text x="24" y="40">Môn phái</text>
+  </g>
+  <g transform="translate(24,60)">
+    <rect width="552" height="72" rx="12" fill="#e9f7f4" stroke="#cdebe5"/>
+    <text x="16" y="32" font-size="20" fill="#0e7a66">Kiếm Khách</text>
+    <text x="16" y="52" font-size="14" fill="#43615a">Cân bằng công thủ, dễ làm quen.</text>
+  </g>
+  <g transform="translate(24,144)">
+    <rect width="552" height="72" rx="12" fill="#e9f7f4" stroke="#cdebe5"/>
+    <text x="16" y="32" font-size="20" fill="#0e7a66">Đao Khách</text>
+    <text x="16" y="52" font-size="14" fill="#43615a">Sát thương bùng nổ, cận chiến.</text>
+  </g>
+  <g transform="translate(24,228)">
+    <rect width="552" height="72" rx="12" fill="#e9f7f4" stroke="#cdebe5"/>
+    <text x="16" y="32" font-size="20" fill="#0e7a66">Pháp Sư / Y Sư</text>
+    <text x="16" y="52" font-size="14" fill="#43615a">Khống chế & hỗ trợ, chủ lực tổ đội.</text>
+  </g>
+</svg>
